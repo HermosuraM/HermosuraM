@@ -42,7 +42,7 @@ LangGraph agent turns the results into pre-earnings notes whose every number is 
 | **Financial Opportunity Copilot** (2026) | ML pipeline that flags six financial-wellbeing opportunities across 41K+ customers (0.94-1.00 PR-AUC), plus a Claude tool-calling agent that grounds every dollar figure in deterministic finance functions | Python, scikit-learn, SQLite, Claude API |
 | **Regime-aware market forecasting** (ACM Research, 2026) | Gaussian HMM regimes with a bidirectional LSTM and multi-head attention over a 73-ticker portfolio; 58.1% directional accuracy and a 2.00 Sharpe ratio on SPY under walk-forward validation | PyTorch |
 | [Seoul bike demand regression](https://github.com/HermosuraM/Seoul_Bike_Sharing_Regression) | Regression models for hourly bike-rental demand on the UCI Seoul Bike Sharing dataset | Python |
-| [SpendWise](https://github.com/HermosuraM/spendwise) | Personal budgeting web app with spending charts | React, Supabase, Recharts |
+| [SpendWise](https://github.com/HermosuraM/spendwise) ([live demo](https://hermosuram.github.io/spendwise/)) | Local-first budgeting app with explainable insights: recurring-charge detection, robust (median/MAD) anomaly flags, and a month-end forecast that blends this month's pace with a three-month baseline; 66 tests, deployed by GitHub Actions | React, Vite, Supabase, Recharts, Vitest |
 | [Retail inventory and analytics](https://github.com/HermosuraM/CS4347_project) | Inventory and analytics web app built for a database systems course | PHP, MySQL |
 
 ## Toolbox
