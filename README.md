@@ -11,8 +11,8 @@
 
 I'm a double major in Data Science and Applied Mathematics (GPA 4.0, graduating December 2027). I like problems where
 the data is messy and the answer has to hold up against reality: forecasting, alternative data, and evaluation that is
-honest about what a model cannot see. I'm looking for **Summer 2027 internships where I can solve ambiguous problems
-with data-driven decisions**, whether in product, data science, or engineering.
+honest about what a model cannot see. I'm looking for **Summer 2027 internships where I can turn ambiguous problems
+into data-driven decisions**, whether in product, data science, or engineering.
 
 ## Featured: PanelCast
 
