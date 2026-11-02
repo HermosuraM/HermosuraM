@@ -1,7 +1,7 @@
 <h1 align="center">Matthew Hermosura</h1>
 
 <p align="center">
-  Data Science + Applied Mathematics at UT Dallas &middot; data pipelines and machine learning for finance and alternative data
+  Data Science + Applied Mathematics at UT Dallas &middot; turning ambiguous problems into data-driven decisions
 </p>
 
 <p align="center">
@@ -11,7 +11,8 @@
 
 I'm a double major in Data Science and Applied Mathematics (GPA 4.0, graduating December 2027). I like problems where
 the data is messy and the answer has to hold up against reality: forecasting, alternative data, and evaluation that is
-honest about what a model cannot see. I'm looking for **Summer 2027 data science and machine learning internships**.
+honest about what a model cannot see. I'm looking for **Summer 2027 internships where I can solve ambiguous problems
+with data-driven decisions**, whether in product, data science, or engineering.
 
 ## Featured: PanelCast
 
